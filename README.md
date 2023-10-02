@@ -7,4 +7,7 @@ Marks:
 * Project 3 (Reinforcement Learning and Inverse Reinforcement Learning) - 364 / 400
 * Project 4 (Graph Algorithms) - 195 / 215
 
-Final Grade: A
+
+Languages Used: R and Python 
+
+Google Colab Link for an .ipynb with R : colab.research.google.com/notebook#create=true&language=r
