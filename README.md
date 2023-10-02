@@ -10,4 +10,4 @@ Marks:
 
 Languages Used: R and Python 
 
-Google Colab Link for an .ipynb with R : [a link](https://colab.research.google.com/notebook#create=true&language=r)
+Google Colab Link for an .ipynb with R : [Colab with R](https://colab.research.google.com/notebook#create=true&language=r)
